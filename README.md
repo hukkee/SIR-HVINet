@@ -22,7 +22,7 @@ Extensive experiments demonstrate that SIR-HVINet achieves superior performance 
 ## Framework
 
 <p align="center">
-<img src="assets/framework.png" width="90%">
+<img src="assets/framework.jpg" width="90%">
 </p>
 
 ## Results
@@ -38,7 +38,7 @@ Our method achieves competitive performance on several benchmark datasets.
 ## Visualization
 
 <p align="center">
-<img src="assets/results.png" width="90%">
+<img src="assets/results.jpg" width="90%">
 </p>
 
 
