@@ -38,7 +38,7 @@ Our method achieves competitive performance on several benchmark datasets.
 ## Visualization
 
 <p align="center">
-<img src="assets/results.jpg" width="90%">
+<img src="assets/result.jpg" width="90%">
 </p>
 
 
