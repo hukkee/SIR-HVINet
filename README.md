@@ -54,9 +54,13 @@ Stay tuned!
 If you find this work useful, please cite:
 
 ```bibtex
-@inproceedings{sir_hvinet,
-  title={SIR-HVINet: Simulated Infrared Guided HVI Color Space for Low-Light Image Enhancement},
-  author={Anonymous Authors},
-  booktitle={},
-  year={2026}
+@inproceedings{li2026sirhvinet,
+  author    = {Li, Kaijiang and Hu, Ke and Xu, Hao
+               and Zheng, Haokun and Xu, Yulu and Lv, Pei},
+  title     = {SIR-HVINet: Simulated Infrared Guided HVI
+               Color Space for Low-Light Image Enhancement},
+  booktitle = {Proceedings of the 34th ACM International
+               Conference on Multimedia},
+  year      = {2026}
+}
 }
