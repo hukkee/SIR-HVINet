@@ -63,4 +63,3 @@ If you find this work useful, please cite:
                Conference on Multimedia},
   year      = {2026}
 }
-}
